@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48beb47b198405f40b6e7811073ceab4, type: 3}
+  m_Name: Input settings
+  m_EditorClassIdentifier: 
+  interact: 101
+  sensitivity: 1.5
+  forward: 119
+  backward: 115
+  rightward: 100
+  leftward: 97
+  jump: 32
+  crouch: 306
+  shoot: 323
+  scope: 324
+  reload: 114
+  nextItem: 0
+  prevItem: 0
+  escepe: 27
+  enter: 13
+  use: 102
